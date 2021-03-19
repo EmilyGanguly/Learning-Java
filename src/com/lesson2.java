@@ -112,7 +112,7 @@ public class lesson2 {
         }*/
 
         //Switch statements
-       /*switch(age){   //id we do not add break; then all the cases after the matched case gets executed
+       /*switch(age){   //if we do not add break; then all the cases after the matched case gets executed
             case 10: System.out.println("You are 10 years old");
             break;
             case 20: System.out.println("You are 20 years old");
